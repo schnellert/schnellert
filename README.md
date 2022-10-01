@@ -1,5 +1,5 @@
 # Über mich:
-Mein Name ist Felix, Ich bin derzeit 17 Jahre alt und bin in Ausbildung zum Fachinformatiker Schwerpunkt Anwendungsentwicklung<br>
+Mein Name ist Felix, Ich bin derzeit 17 Jahre alt und in Ausbildung zum Fachinformatiker Schwerpunkt Anwendungsentwicklung<br>
 
 
 # 💻 Tech Stack:
