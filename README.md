@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 📝 I regularly write articles on [https://blog.schnellert.dev](https://blog.schnellert.dev)
+- 📝 I write articles on [https://blog.schnellert.dev](https://blog.schnellert.dev) (down)
 
 - 📫 How to reach me **me@schnellert.dev**
 
