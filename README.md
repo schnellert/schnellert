@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer</h3>
 
 - 📄 Know about my experiences [https://felix-schnellert.de](https://felix-schnellert.de)
-- 
+  
 - 📝 I write articles on [https://blog.schnellert.dev](https://blog.schnellert.dev) (down)
 
 - 📫 How to reach me **me@schnellert.dev**
