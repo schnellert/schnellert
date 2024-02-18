@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">A DevOps Engineer</h3>
 
 - 📄 Know about my experiences [https://felix-schnellert.de](https://felix-schnellert.de)
   
-- 📝 I write articles on [https://blog.schnellert.dev](https://blog.schnellert.dev) (down)
+- 📝 I write articles on [https://blog.schnellert.dev](https://blog.schnellert.dev) (wip)
 
 - 📫 How to reach me **me@schnellert.dev**
 
